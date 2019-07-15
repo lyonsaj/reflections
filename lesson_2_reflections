@@ -1,0 +1,26 @@
+How might using version control make you more confident to make changes that could break something?
+  Because you can easily revert changes if something breaks.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+  DEVELOPING
+
+What happens when you initialize a repository? Why do you need to do it?
+  Git begins tracking it. So that git knows its a repository
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+  The staging area is where you can place a file if you are done working on it.
+
+How can you use the staging area to make sure you have one commit per logical change?
+  By checking to see how many files are staged.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+  Keeping features separate so you can work on them and still commit
+
+How do the diagrams help you visualize the branch structure?
+  You get to see what the branches look like in line.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+  miserable failure
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+  im not sure.. committing has been pretty brutal.
